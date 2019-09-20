@@ -1,0 +1,30 @@
+ body {
+        background-color: black;
+        color:#fff;
+        font-family: 'Black Han Sans', sans-serif;
+      }
+    /*  .wrap {
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+    
+      .wrap {
+        height: 100%;
+        width: 500px;
+        margin: auto;
+        margin: 0 auto;
+        text-align: center;
+      }
+*/
+      .wrap {
+        text-align: center;
+      }
+
+      .mytitle {
+        color : yellow;
+      }
+      .small-font {
+        font-size: 100px;
+      }
